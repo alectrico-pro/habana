@@ -1395,11 +1395,10 @@ body {
 }
 .cid-rvkfZScq2S {
   background: #ffffff;
-  padding-top: 120px;
-  padding-bottom: 60px;
 }
 .cid-rvkfZScq2S .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rvkfZScq2S figcaption {
   position: relative;
