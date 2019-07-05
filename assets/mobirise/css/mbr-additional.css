@@ -1582,7 +1582,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #f7ed4a;
 }
 .cid-rvaCuHG4vL button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1662,7 +1662,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rvaCuHG4vL .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rvaCuHG4vL .collapsed button.navbar-toggler {
@@ -2116,7 +2116,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #f7ed4a;
 }
 .cid-rvaCuHG4vL button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2196,7 +2196,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rvaCuHG4vL .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rvaCuHG4vL .collapsed button.navbar-toggler {
